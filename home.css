@@ -1,0 +1,19 @@
+h1 {
+    border: 2px double rgb(72, 45, 202);
+    background-color: aqua;
+    text-align: center;
+    color: red;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    color: blueviolet;
+    border: 2px double red;
+}
+h2 {
+    border: 2px double rgba(250, 242, 0, 0.656);
+    background-color: rgb(74, 130, 130);
+    text-align: center;
+    color: rgb(38, 255, 0);
+}
